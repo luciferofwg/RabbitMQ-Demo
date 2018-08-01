@@ -1,0 +1,17 @@
+# visual stdio temp folder
+Debug/
+Release/
+temp/
+.vs/
+
+*.sdf
+*.opensdf
+*.suo
+*.db
+*.user
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
